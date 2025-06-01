@@ -1,1 +1,5 @@
 important : 项目经验（GitHub） ≥ 算法能力（LeetCode）
+数据预处理	文件批量读取 (os.listdir+open)	图像缩放 (cv2.resize)
+特征提取	数值计算 (numpy)	边缘检测 (cv2.Canny)
+结果输出	写入CSV (pandas.to_csv)	可视化 (matplotlib)
+
