@@ -3,11 +3,17 @@
 在GitHub创建仓库Smart-Construction，今日上传1个用PyAutoCAD生成的施工图脚本
 
 注册Cesium ion账户，申请学生授权（免费100GB空间） done
+Cesium ion
+云服务_用于地理空间应用的3D内容
 
 加入武大GIS竞赛群（搜索QQ群号）组队参赛
 : WebGIS全栈开发
-用Leaflet制作在线可视化地图
+webgis是web+地理信息 
+怎么用？问题3
 
+用Leaflet制作在线可视化地图
+什么是Leaflet，一个js库
+three.js,一个js库
 
 行动原则：
 1 所有技术输出必须可视化 → 把代码变成网页/视频/GIF动图
@@ -22,7 +28,7 @@ python 二级
 编程基础：
 土木院唯一会写WebGL三维渲染的学生 → 毕业设计秒杀全场
 用PyAutoCAD批量生成施工图（传统手工需3天，您写脚本3分钟
-
+pyautocad :python库
 技能速成
 1 Autodesk Revit认证
 
@@ -35,13 +41,16 @@ python 二级
 
  培养：写代码、做文档、解决问题。
 
-ptthon 关键库：（Pandas/GDAL/Cesium）后两个都跟地理有关
-
-
+python 关键库：（Pandas/GDAL/Cesium）后两个都跟地理有关
+我安装了basemap :  pip D:\download\basemap-1.4.1-cp310-cp310-win_amd64.whl
+有什么用？问题1 https://zhuanlan.zhihu.com/p/685503986 参考
+  
 权威竞赛
 全国高校GIS技能大赛（9月截止）→ 组队开发智慧园区系统
 
-中国BIM大赛（学生组）→ 用Dynamo做参数化设计
+中国BIM大赛（学生组）→ 用Dynamo做参数化设计  dynamo:可视化编程
+NVIDIA Dynamo？问题2
+
 
 Esri杯中国大学生GIS软件开发竞赛 → 三维Web应用开发
 
@@ -51,6 +60,13 @@ Esri杯中国大学生GIS软件开发竞赛 → 三维Web应用开发
 广联达GSD认证（BIM开发）	★★★★☆	30小时	⭐⭐⭐⭐⭐
 Cesium官方认证开发者	★★★★	40小时	⭐⭐⭐⭐
 华为HCIA-GIS空间信息	★★★☆	50小时	⭐⭐⭐
+
+这是有用的有用的！！！！
+库
+引用库
+包管理工具
+库的API说明文档
+这是有用的有用的！！！！
 
 graph LR
 A[土木工程本体认知] --> D[智能基建开发者]
