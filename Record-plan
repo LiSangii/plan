@@ -20,10 +20,15 @@ three.js,一个js库
 2 所有考研准备必须应试化 → 真题正确率＞刷题量
 3 所有人脉拓展必须功利化 → 认识的人必须能提供：真题/内推/项目合作
 important : 项目经验（GitHub） ≥ 算法能力（LeetCode）
+
+证书中克实际操作的部分
 python 二级
 数据预处理	文件批量读取 (os.listdir+open)	图像缩放 (cv2.resize)
 特征提取	数值计算 (numpy)	边缘检测 (cv2.Canny)
 结果输出	写入CSV (pandas.to_csv)	可视化 (matplotlib)
+office二级
+
+
 
 编程基础：
 土木院唯一会写WebGL三维渲染的学生 → 毕业设计秒杀全场
@@ -31,9 +36,9 @@ python 二级
 pyautocad :python库
 技能速成
 1 Autodesk Revit认证
-
 3 LEED GA认证
 4全国BIM技能等级考试
+
 
 1 Dynamo可视化编程
 2 Web GIS
@@ -41,10 +46,13 @@ pyautocad :python库
 
  培养：写代码、做文档、解决问题。
 
+
+
 python 关键库：（Pandas/GDAL/Cesium）后两个都跟地理有关
 我安装了basemap :  pip D:\download\basemap-1.4.1-cp310-cp310-win_amd64.whl
 有什么用？问题1 https://zhuanlan.zhihu.com/p/685503986 参考
-  
+
+
 权威竞赛
 全国高校GIS技能大赛（9月截止）→ 组队开发智慧园区系统
 
