@@ -1,5 +1,14 @@
 B站相关的python 代码
 1Bilibili视频数据爬虫  Bilibili_video_info
+使用步骤 
+数据输入文件
+idlist.txt
+保存数据文件夹
+output.xlsx
+报错信息文件
+video_errorlist.txt
+
+
 
 2Cross-platform download bilibili video
  Bilibili_video_download
